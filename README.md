@@ -14,7 +14,7 @@ A RESTful API for managing books and reviews. This backend application allows us
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone `https://github.com/vivekp1118/junior-backend-task.git`
    cd junior-backend-task
    ```
 
